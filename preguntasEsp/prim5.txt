@@ -1,0 +1,58 @@
+Preguntas 5to de primaria
+##
+Un texto que busca expresar opiniones con un fundamento para defenderlas:
+Texto argumentativo
+Texto informativo
+Texto persuasivo
+Texto narrativo
+1
+##
+Un texto que busca entretener al lector:
+Texto argumentativo
+Texto informativo
+Texto persuasivo
+Texto narrativo
+4
+##
+Un texto que exponer datos precisos para transmitir conocimiento:
+Texto argumentativo
+Texto informativo
+Texto persuasivo
+Texto narrativo
+2
+##
+Un texto que busca convencer al lector sobre una postura específica:
+Texto argumentativo
+Texto informativo
+Texto persuasivo
+Texto narrativo
+3
+##
+Historias en donde los protagonistas son comúnmente objetos animados o animales que actúan como personas y tiene una moraleja al final
+Fábula
+Mito
+Leyenda
+Cuento
+1
+##
+Historia que combina un relato ficticio con uno real. Consiste de un planteamiento, un nudo y un desenlaze
+Fábula
+Mito
+Leyenda
+Cuento
+4
+##
+Relato que busca explicar el origen de las cosas (como el origen del universo), y que puede tener diferentes versiones.
+Fábula
+Mito
+Leyenda
+Cuento
+2
+##
+Relato popular que busca explicar el origen de algo. Existe solo una versión de cada relato.
+Fábula
+Mito
+Leyenda
+Cuento
+3
+##
