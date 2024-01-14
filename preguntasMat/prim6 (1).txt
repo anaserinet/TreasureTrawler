@@ -1,0 +1,41 @@
+Preguntas 6to de primaria
+##
+Si tengo una docena de huevos a x pesos, cuanto costaran y docenas?
+$x*y$
+x y
+##
+¿Cuánto es 5x10^3?
+500
+5000
+50
+5
+2
+##
+¿Cuántos grados tiene en total un triángulo?
+360
+90
+200
+180
+4
+##
+¿Cuánto vale pi?
+2.75
+9.81
+3.14
+4.82
+3
+##
+Al despejar, si un valor lo estoy sumando, ¿cómo lo paso al otro lado?
+Restando
+Sumando también
+Multiplicando
+Dividiendo
+1
+##
+¿Sobre qué ejes grafico un plano en 2 dimensionaes?
+"z" y "x"
+"x" y "y"
+"y" y "z"
+"z" y "w"
+1
+##

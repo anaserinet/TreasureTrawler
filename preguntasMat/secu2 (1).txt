@@ -1,0 +1,45 @@
+Preguntas 2ro Secundaria
+##
+¿Cómo se calcula un porcentaje?
+Multiplicando un valor x 100
+Multiplicando un valor por 0.(Porcentaje)
+Dividiento el valor total entre 100
+No es posible
+2
+##
+¿Cómo luce una gráfica de velocidad respecto a una aceleración?
+De manera de parábola
+Una recta lineal
+Una serie de puntos sin sentido
+Una parábola hacia abajo
+1
+##
+¿Que forma una ecuación cuadrática?
+Una recta
+Un segmento
+Una parábola
+Nada
+3
+##
+¿Cómo se encuentra el ángulo de un triángulo?
+Con la tangente inversa, dividiendo y/x
+Con el coseno, se multiplica por x
+Con el seno, se multiplica por y
+Multiplicando x*y
+1
+##
+¿Para que sirve la fórmula general AKA Chicharronera?
+Para multiplicar triángulos
+Para encontrar ángulos
+Para despejar x de una función cuadrática
+Para despejar cualquier ecuación
+3
+##
+Si tengo la secuencia: 12, 13, 15, 18, 22... ¿qué valor sigue?
+23
+24
+25
+26
+27
+4
+##

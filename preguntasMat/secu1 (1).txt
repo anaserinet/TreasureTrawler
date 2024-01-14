@@ -1,0 +1,35 @@
+Preguntas 1ro Secundaria
+##
+13x-45x=52x... que es lo anteriormente mencionado?
+Una ecuación
+Una regla
+Una ley
+Un axioma
+1
+##
+¿Que es una hipotenusa?
+Un lado cualquiera de un triángulo
+La distancia entre los 2 catetos en un triángulo rectángulo
+El ángulo del triángulo
+La cantidad de vertices de una figura
+2
+##
+¿Como se encuentra la hipotenusa?
+c1+c2
+c1*c2
+raiz de (c1^2+c2^2)
+raiz de (c1^2-c2^2)
+3
+##
+Si un cateto mide x, y otro z, cual es el valor de la hipotenusa al cuadrado?
+$x*x+z*z$
+x z
+##
+¿Cuánto es x * x?
+2x
+x^2
+xx
+x/2
+1
+2
+##
