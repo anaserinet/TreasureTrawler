@@ -1,0 +1,4 @@
+Braulio|1|0|110
+Eddy|3|0|100
+Eddy|6|7|260
+Hermenegildo|3|0|50
